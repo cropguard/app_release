@@ -1,0 +1,2 @@
+allvision-arflight-1.0.apk
+1. 加入版本检测的第一个版本；
