@@ -1,2 +1,7 @@
 ﻿allvision-arflight-1.0.apk
 1. 加入版本检测的第一个版本；
+
+allvision-arflight-1.1.0.apk
+1. 应用名改为AR Flight；
+2. 图传状态根据WIFI状态自动切换；
+3. UI流程优化；
