@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<info>
+    <version>1</version>
+    <games type="array">
+        <game>
+            <appName>飞机打地鼠</appName>
+            <packageName>net.allvision.game.dishu</packageName>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/dishu.png</icon>
+            <apkUrl>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu.apk</apkUrl>
+            <updateInfo>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-version.xml</updateInfo>
+            <description>场景中会根据marker生成出地鼠，游戏方法是控制飞机在地鼠上方盘旋，并向地鼠发射武器。\n</description>
+        </game>
+        <game>
+            <appName>AR打靶</appName>
+            <packageName>net.allvision.game.biaoba</packageName>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/bapan.png</icon>
+            <apkUrl>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-bapan.apk</apkUrl>
+            <updateInfo>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-bapan-version.xml</updateInfo>
+            <description>此游戏未准备好。\n</description>
+        </game>
+        <game>
+            <appName>AR打怪</appName>
+            <packageName>net.allvision.game.daguaiwu</packageName>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/guaiwu.png</icon>
+            <apkUrl>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-daguaiwu.apk</apkUrl>
+            <updateInfo>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-daguaiwu-version.xml</updateInfo>
+            <description>场景中会根据marker生成出怪物，游戏方法是控制飞机在怪物上方盘旋，并向怪物发射武器。\n</description>
+        </game>
+    </games>
+</info>  

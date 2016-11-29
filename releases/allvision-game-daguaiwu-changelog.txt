@@ -1,2 +1,5 @@
 ﻿allvision-game-daguaiwu-1.0.apk
 1. 对外发布第一个版本；
+
+allvision-game-daguaiwu-1.0.1.apk
+1. 修改模型；

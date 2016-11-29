@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.dishu</packageName>
-    <versionCode>1</versionCode>
+    <versionCode>3</versionCode>
     <versionName>1.0</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-1.0.apk</url>
-    <description>飞机打地鼠\n本版本是第一个发布版本。</description>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-1.0.1.apk</url>
+    <description>飞机打地鼠
+1. 修改名称；
+2. 修改手柄回中。
+</description>
 </info>

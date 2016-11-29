@@ -1,2 +1,6 @@
 ﻿allvision-game-dishu-1.0.apk
 1. 对外发布第一个版本；
+
+allvision-game-dishu-1.0.1.apk
+1. 修改名称；
+2. 修改手柄回中；
