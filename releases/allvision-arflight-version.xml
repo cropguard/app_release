@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>com.cropguard.abao.flight</packageName>
-    <versionCode>2</versionCode>
-    <versionName>1.1.0</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.0.apk</url>
+    <versionCode>3</versionCode>
+    <versionName>1.2.1</versionName>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.2.1.apk</url>
     <description>本版本包含以下优化：
-1. 应用名改为AR Flight；
-2. 图传状态根据WIFI状态自动切换；
-3. UI流程优化；
+1. 更新游戏大厅；
+2. 加入微信登陆功能；
+3. 加入微信分享功能（需要在游戏中调用）；
+4. UI流程优化；
 
 </description>
 </info>
