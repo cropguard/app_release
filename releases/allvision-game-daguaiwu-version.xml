@@ -1,10 +1,8 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.daguaiwu</packageName>
-    <versionCode>4</versionCode>
+    <versionCode>5</versionCode>
     <versionName>1.0.1</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-1.0.1.apk</url>
-    <description>ARæ‰“æ€ªç‰©
-ä¿®æ”¹æ¨¡å‹ã€‚
-</description>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-1.0.apk</url>
+    <description>AR´ò¹ÖÎï\n±¾°æ±¾¸üĞÂUI½çÃæ£¬È«ÃæÌáÉı¿ÉÍæĞÔ¡£</description>
 </info>
