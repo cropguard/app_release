@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>com.cropguard.abao.flight</packageName>
-    <versionCode>3</versionCode>
-    <versionName>1.2.1</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.2.1.apk</url>
+    <versionCode>4</versionCode>
+    <versionName>1.3.0</versionName>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.3.0.apk</url>
     <description>本版本包含以下优化：
-1. 更新游戏大厅；
-2. 加入微信登陆功能；
-3. 加入微信分享功能（需要在游戏中调用）；
-4. UI流程优化；
+1. 解决“媒体”中某些图片不能显示的问题；
+2. 解决“媒体”中某些视频不能预览播放的问题；
 
 </description>
 </info>
