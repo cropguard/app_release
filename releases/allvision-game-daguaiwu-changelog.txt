@@ -3,3 +3,6 @@
 
 allvision-game-daguaiwu-1.0.1.apk
 1.本版本更新UI界面，添加商城，第三方登录，分享等功能
+
+allvision-game-daguaiwu-1.0.2.apk
+修正上一版本许多Bug，卡顿以及游戏模式的图标获取，添加dv未连接状态的提示信息，修改武器的点击函数

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.daguaiwu</packageName>
-    <versionCode>5</versionCode>
-    <versionName>1.0.1</versionName>
+    <versionCode>6</versionCode>
+    <versionName>1.0.2</versionName>
     <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu-1.0.apk</url>
-    <description>AR打怪物\n本版本更新UI界面，全面提升可玩性。</description>
+    <description>AR打怪物\n本版本优化卡顿现象，修正游客模式下的图标显示，DV未连接状态的提示信息。</description>
 </info>
