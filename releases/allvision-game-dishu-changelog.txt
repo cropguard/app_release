@@ -4,3 +4,9 @@
 allvision-game-dishu-1.0.1.apk
 1. 修改名称；
 2. 修改手柄回中；
+
+allvision-game-dishu-1.0.2.apk
+修改图标，
+修改微星登录为调用AR Flight 所提供的接口
+增加DV信息无法获取的提示信息
+锁定屏幕
