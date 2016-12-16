@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>  
+<info>
+    <version>1</version>
+    <games type="array">
+        <game>
+            <appName>飞机打地鼠</appName>
+            <appid>1169329531</appid>
+            <bundleIdentifier>net.allvision.game.dishu</bundleIdentifier>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/dishu.png</icon>
+            <description>场景中会根据marker生成出地鼠，游戏方法是控制飞机在地鼠上方盘旋，并向地鼠发射武器。\n\n当前游戏未上架，敬请期待。\n</description>
+        </game>
+        <game>
+            <appName>AR打靶</appName>
+            <appid>1169329531</appid>
+            <bundleIdentifier>net.allvision.game.biaoba</bundleIdentifier>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/bapan.png</icon>
+            <description>此游戏未准备好。\n</description>
+        </game>
+        <game>
+            <appName>AR打怪</appName>
+            <appid>1169329531</appid>
+            <bundleIdentifier>net.allvision.game.daguaiwu</bundleIdentifier>
+            <icon>https://github.com/cropguard/app_release/raw/master/releases/gamehall/guaiwu.png</icon>
+            <description>场景中会根据marker生成出怪物，游戏方法是控制飞机在怪物上方盘旋，并向怪物发射武器。\n\n当前游戏未上架，敬请期待。\n</description>
+        </game>
+    </games>
+</info>  
