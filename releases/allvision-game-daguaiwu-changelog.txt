@@ -6,3 +6,6 @@ allvision-game-daguaiwu-1.0.1.apk
 
 allvision-game-daguaiwu-1.0.2.apk
 修正上一版本许多Bug，卡顿以及游戏模式的图标获取，添加dv未连接状态的提示信息，修改武器的点击函数
+
+allvision-game-daguaiwu-1.0.3.apk
+修正商城系统，加入子弹限制以及购买功能，
