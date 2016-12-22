@@ -10,3 +10,6 @@ allvision-game-dishu-1.0.2.apk
 修改微星登录为调用AR Flight 所提供的接口
 增加DV信息无法获取的提示信息
 锁定屏幕
+
+allvision-game-dishu-1.0.3.apk
+修复识别图册分辨率不同时所显示的效果

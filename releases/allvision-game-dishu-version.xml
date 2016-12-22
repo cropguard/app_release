@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.dishu</packageName>
-    <versionCode>4</versionCode>
-    <versionName>1.0.2</versionName>
+    <versionCode>5</versionCode>
+    <versionName>1.0.3</versionName>
     <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu.apk</url>
     <description>飞机打地鼠
-1. 修改图标；
-2. 增加无法获取图像的提示。
+修复识别图册显示和其他Bug
 </description>
 </info>

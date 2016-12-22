@@ -9,3 +9,6 @@ allvision-game-daguaiwu-1.0.2.apk
 
 allvision-game-daguaiwu-1.0.3.apk
 修正商城系统，加入子弹限制以及购买功能，
+
+allvision-game-daguaiwu-1.0.4.apk
+修复识别时，丢失其中之一，模型不删掉的现象。
