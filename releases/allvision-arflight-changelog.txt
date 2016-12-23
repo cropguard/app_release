@@ -17,3 +17,7 @@ allvision-arflight-1.2.1.apk
 allvision-arflight-1.3.0.apk
 1. 解决“媒体”中某些图片不能显示的问题；
 2. 解决“媒体”中某些视频不能预览播放的问题；
+
+allvision-arflight-1.4.0.apk
+1. 支持DV固件在线下载后升级；
+2. UI流程优化；
