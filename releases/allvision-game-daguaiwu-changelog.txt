@@ -12,3 +12,6 @@ allvision-game-daguaiwu-1.0.3.apk
 
 allvision-game-daguaiwu-1.0.4.apk
 修复识别时，丢失其中之一，模型不删掉的现象。
+
+allvision-game-daguaiwu.1.0.5.apk
+增加appid 与key功能

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.dishu</packageName>
-    <versionCode>5</versionCode>
-    <versionName>1.0.3</versionName>
+    <versionCode>6</versionCode>
+    <versionName>1.0.4</versionName>
     <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-dishu.apk</url>
     <description>飞机打地鼠
-修复识别图册显示和其他Bug
+增加appid与key功能
 </description>
 </info>

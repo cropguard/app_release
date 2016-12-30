@@ -13,3 +13,6 @@ allvision-game-dishu-1.0.2.apk
 
 allvision-game-dishu-1.0.3.apk
 修复识别图册分辨率不同时所显示的效果
+
+allvision-game-dishu-1.0.4.apk
+增加appid 与key来控制sdk的使用
