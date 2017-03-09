@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>com.cropguard.abao.flight</packageName>
-    <versionCode>5</versionCode>
-    <versionName>1.4.0</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.4.0.apk</url>
+    <versionCode>7</versionCode>
+    <versionName>1.4.3</versionName>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-arflight-1.4.3.apk</url>
     <description>本版本包含以下优化：
-1. 支持DV固件在线下载后升级；
-2. UI流程优化；
+1. 支持在线下载升级飞控固件；
 
 </description>
 </info>

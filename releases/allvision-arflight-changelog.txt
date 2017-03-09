@@ -21,3 +21,9 @@ allvision-arflight-1.3.0.apk
 allvision-arflight-1.4.0.apk
 1. 支持DV固件在线下载后升级；
 2. UI流程优化；
+
+allvision-arflight-1.4.2.apk
+1. 支持设置飞控遥控模式；
+
+allvision-arflight-1.4.3.apk
+1. 支持在线下载升级飞控固件；
