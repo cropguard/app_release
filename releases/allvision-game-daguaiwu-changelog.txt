@@ -15,3 +15,6 @@ allvision-game-daguaiwu-1.0.4.apk
 
 allvision-game-daguaiwu.1.0.5.apk
 增加appid 与key功能
+
+allvision-game-daguaiwu.1.0.6.apk
+增加获取手机陀螺仪数据，与DV上的陀螺仪数据

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <info>
     <packageName>net.allvision.game.daguaiwu</packageName>
-    <versionCode>9</versionCode>
-    <versionName>1.0.5</versionName>
-    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-daguaiwu.apk</url>
-    <description>AR打怪物\n本版本增加appid与key功能</description>
+    <versionCode>10</versionCode>
+    <versionName>1.0.6</versionName>
+    <url>https://github.com/cropguard/app_release/raw/master/releases/allvision-game-daguaiwu.1.0.6.apk</url>
+    <description>AR打怪物\n本版本增加调用陀螺仪数据，空间感更强</description>
 </info>
